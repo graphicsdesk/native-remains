@@ -7,12 +7,130 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Columbia’s department of anthropology has made all 14 Native American remains it reported to the federal government available for return to tribes, according to a <a href=\"https://projects.propublica.org/repatriation-nagpra-database/\">newly-released database from ProPublica</a>. Of the Ivy League, Columbia and Princeton University were the only institutions to have initiated the process for repatriation of 100 percent of the remains in their possession."
+          },
+          {
+            "type": "text",
+            "value": "The Native American Graves Protection and Repatriation Act requires any institution that receives federal funding, including universities, to identify and transfer control of Native American human remains and cultural artifacts in its possession to a “lineal descendant, Indian tribe, or Native Hawaiian organization” upon request."
+          },
+          {
+            "type": "text",
+            "value": "Institutions self-report data on Native American remains to the Department of the Interior and the National Park Service. To complete a NAGPRA inventory, an institution must consult with any possibly affiliated tribes or organizations and evaluate all available information on the remains to determine if a cultural or geographical affiliation to a present-day tribe exists."
+          },
+          {
+            "type": "text",
+            "value": "But the reporting process lends itself to loopholes. Even if an institution makes Native American remains available for repatriation, the law does not require institutions to report whether or not a physical transfer has yet occurred."
+          },
+          {
+            "type": "text",
+            "value": "According to a <a href=\"https://anthropology.columbia.edu/content/departmental-statement-ethics-research-and-stewardship-cultural-materials\">statement</a> from Columbia’s department of anthropology,  no “group that has permission under NAGPRA to claim these remains have requested repatriation.” Columbia still maintains possession of all 14 remains."
+          },
+          {
+            "type": "text",
+            "value": "A University spokesperson declined to comment and directed Spectator to the anthropology department’s statement."
+          },
+          {
+            "type": "text",
+            "value": "“Columbia has an obligation to care for these remains until such a request is made,” the department wrote. “We follow all NAGPRA guidelines regarding the ethical and respectful treatment of the remains of all individuals that have not been requested for repatriation.”"
+          },
+          {
+            "type": "text",
+            "value": "Under NAGPRA, institutions may also make remains available for return to multiple tribes. While Columbia initiated the transfer of remains for 13 distinct tribes, the University granted claim to more than one tribe for four out of the 14 remains."
+          },
+          {
+            "type": "text",
+            "value": "The University’s 14 remains were all acquired from North Dakota in 1938 by archaeologist William Strong during Columbia-sponsored excavations, according to three separate notices submitted by the department of anthropology to the National Park Service in 2013 and 2015. Strong was a Columbia professor of anthropology at the time and later chaired the department."
+          },
+          {
+            "type": "text",
+            "value": "In the 2013 notice, researchers identified the remains of at least 10 individuals from Morton County, North Dakota, in consultation with representatives of the Three Affiliated Tribes of Fort Berthold Reservation, North Dakota. Two notices from 2015 reported the remains of a minimum of four individuals from Ransom County, North Dakota, assessed by Columbia researchers and representatives from 14 tribes."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "native_remains.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Strong initially brought the remains to the American Museum of Natural History, where they were kept on “permanent loan” for over half a century, according to the notices. In 2002, Columbia researchers inventoried and conducted an assessment of the remains. The anthropology department then gained possession of at least 10 remains in March 2006 and at least four in August 2011."
+          },
+          {
+            "type": "text",
+            "value": "The department of anthropology determined in two notices that there was a cultural affiliation between the human remains and present-day tribes for at least 11 individuals. A set of at least three individuals from one of the 2015 notices presented no affiliation. Although NAGPRA does not mandate that institutions return culturally unaffiliated remains, Columbia still made the three remains available for return."
+          },
+          {
+            "type": "text",
+            "value": "The total number of Native American remains reported to the federal government sits at roughly 211,000, of which 52 percent have not been made available for return. The true number, however, is likely “larger than what is presently documented” due to underreporting from institutions, according to ProPublica."
+          },
+          {
+            "type": "text",
+            "value": "Harvard University possesses the fourth-largest collection of unrepatriated Native American remains in the nation with 6,165 remains not made available for return, greatly surpassing any other Ivy League university. <a href=\"https://www.thedp.com/article/2023/01/penn-museum-native-american-remains-investigation-propublica\">The University of Pennsylvania</a> holds the second-highest number of unreturned remains among the Ivies with 404, but its collection is still more than 15 times smaller than Harvard’s."
+          },
+          {
+            "type": "text",
+            "value": "Columbia’s collection is one of the smallest in the Ivy League—second only to Cornell, which reported a total of four remains. Besides Columbia and Princeton, every other Ivy has left at least 25 percent of its Native American remains unavailable for transfer. Nearly 90 percent of Brown University’s remains have not been returned, the highest proportion of unrepatriated remains among the Ivies."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "tribes-final.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Among institutions in New York City, only Columbia, the Brooklyn Children’s Museum, and the Rome Historical Society have made 100 percent of their Native American remains available for return. The American Museum of Natural History possesses the largest overall collection of remains in New York City with 3,566—a total greater than the six other New York City-based institutions’ holdings combined."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "remains-barchart.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "In addition to human remains, NAGPRA mandates that institutions offer to transfer cultural artifacts. Columbia University Art Properties oversees Columbia’s art collection and possesses around 500 such artifacts, which it inventoried in 2021."
+          },
+          {
+            "type": "text",
+            "value": "The Department of the Interior is currently seeking to revise NAGPRA, originally passed by Congress in 1990, in consultation with Native American tribes and Native Hawaiian organizations. The updated regulations will attempt to “increas[e] transparency and reporting of holdings or collections,” according to an October <a href=\"https://www.doi.gov/pressreleases/interior-department-takes-next-steps-update-native-american-graves-protection-and-1\">press release</a> from the Department of the Interior."
+          },
+          {
+            "type": "text",
+            "value": "“As heirs to a lengthy history of anthropological research, we are also committed to the ethical stewardship of objects and collections that were generated or acquired by our predecessors,” the anthropology department wrote. “To that end, we are … working to ensure the well-being and, where appropriate, repatriation of objects and materials of cultural value and significance to the communities whence they originated.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>University News Editor Isabella Ramírez can be contacted at </i><a href=\"mailto:isabella.ramirez@columbiaspectator.com\"><i>isabella.ramirez@columbiaspectator.com</i></a><i>. Follow her on Twitter </i><a href=\"https://twitter.com/isabellasrmrz\"><i>@isabellasrmrz</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>University News Editor Esha Karam can be contacted at </i><a href=\"mailto:esha.karam@columbiaspectator.com\"><i>esha.karam@columbiaspectator.com</i></a><i>. Follow her on Twitter </i><a href=\"https://twitter.com/esha_karam\"><i>@esha_karam</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Editor Devon Campbell can be contacted at </i><a href=\"mailto:devon.campbell@columbiaspectator.com\"><i>devon.campbell@columbiaspectator.com</i></a><i>. </i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Editor Adina Cazacu-De Luca can be contacted at </i><a href=\"mailto:adina.cazacu.de.luca@columbiaspectator.com\"><i>adina.cazacu.de.luca@columbiaspectator.com</i></a><i>. Follow her on Twitter </i><a href=\"https://twitter.com/adidanic\"><i>@adidanic</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "New data shows Columbia has made all reported Native American remains available for return",
+        "date": "January 24, 2023",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Isabella-Ramirez/\">Isabella Ramírez</a> and <a href=\"https://www.columbiaspectator.com/contributors/esha-karam/\">Esha Karam</a>\nGraphics by <a href=\"https://www.columbiaspectator.com/contributors/Devon-Campbell/\">Devon Campbell</a>, <a href=\"https://www.columbiaspectator.com/search=adina%20cazacu%20de%20luca&from=0/\">Adina Cazacu-De Luca</a>, and Laya Gollamudi",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1AXldPfaVhZS6DVXNlEV7myVJFQJHwM79M-LGmnh1fPk/edit#"
       }
     }
   }

@@ -60,6 +60,15 @@
               <if condition="item.value.asset === 'graphic-name.html'">
                 <include src="graphic-name.html"></include>
               </if>
+              <if condition="item.value.asset === 'native_remains.html'">
+                <include src="native_remains.html"></include>
+              </if>
+              <if condition="item.value.asset === 'remains-barchart.html'">
+                <include src="remains-barchart.html"></include>
+              </if>
+              <if condition="item.value.asset === 'tribes-final.html'">
+                <include src="tribes-final.html"></include>
+              </if>
             </div>
           </case>
         </switch>
@@ -69,5 +78,6 @@
     <include src="partials/footer.html"></include>
 
     <script src="./script.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
   </body>
 </html>
